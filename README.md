@@ -1,4 +1,4 @@
-👋 Hi, I’m **@lecroissantauxamandes**.
+👋 Hi, I’m **@lecroissantauxamandes**. I am a Californian who tends to update her github from cafes that serve croissants.
 
 👀 For the purposes of this github account, I’m primarily interested in (1) mange-ing on croissants (Thank you, Duolingo. Tu manges un croissant, Paul mange un croissant, etc.) and (2) upping my math/ stats/ econometrics/ DS knowledge so that I can tackle interesting research questions.
 
