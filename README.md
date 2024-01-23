@@ -1,6 +1,6 @@
 👋 Hi, I’m **@lecroissantauxamandes**.
 
-👀 I’m primarily interested in (1) mange-ing on croissants (Thank you, Duolingo. Tu manges un croissant, Paul mange un croissant, etc.) and (2) upping my math/ stats/ econometrics/ DS knowledge so that I can tackle interesting research questions.
+👀 For the purposes of this github account, I’m primarily interested in (1) mange-ing on croissants (Thank you, Duolingo. Tu manges un croissant, Paul mange un croissant, etc.) and (2) upping my math/ stats/ econometrics/ DS knowledge so that I can tackle interesting research questions.
 
 🌱 As such, visitors should expect bifurcated updates: (1) monthly croissant, generally almond, reviews (2) weekly math-y topic of the moment commits.  
 
